@@ -1,6 +1,14 @@
 onload = () => {
   document.body.classList.remove("container");
   console.log("Entra");
-  let cancion = new Audio("audio/Jacob and the Stone.mp3")
-  cancion.play();
 };
+document.getElementById('playButton').addEventListener('click', function() {
+  console.log("Entra2");
+    var audio = document.getElementById('audio');
+    audio.play().then(function() {
+        // La reproducción del audio se inició correctamente
+    }).catch(function(error) {
+        // Error al intentar iniciar la reproducción del audio
+        console.error('Error al reproducir el audio:', error);
+    });
+});
