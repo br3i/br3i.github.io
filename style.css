@@ -10,6 +10,16 @@
   --dark-color: #000000;
 }
 
+#playButton {
+  position: fixed;
+  top: 20px;
+  /* Ajusta la posición vertical del botón */
+  right: 20px;
+  /* Ajusta la posición horizontal del botón */
+  z-index: 9999;
+  /* Asegura que el botón esté encima de otros elementos */
+}
+
 body {
   display: flex;
   align-items: flex-end;
