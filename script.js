@@ -1,5 +1,8 @@
-var audio = document.getElementById("audio");
 onload = () => {
   document.body.classList.remove("container");
-  audio.play();
 };
+
+window.addEventListener("load", function() {
+  var audio = document.getElementById("audio");        
+  audio.play();
+});
