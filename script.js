@@ -2,7 +2,10 @@ onload = () => {
   document.body.classList.remove("container");
 };
 
-window.addEventListener("load", function() {
-  var audio = document.getElementById("audio");        
+function reproducirAudio() {
+  console.log("Reproduciendo audio");
+  // Obtiene el elemento de audio
+  var audio = document.getElementById("audio");
+  // Inicia la reproducción del audio
   audio.play();
-});
+}
