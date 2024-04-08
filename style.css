@@ -2462,21 +2462,18 @@ body {
   right: 10px;
   padding: 10px 20px;
   background-color: #b8860b;
-  /* Color de fondo azul */
   color: white;
-  /* Texto en color blanco */
   border: none;
-  /* Sin borde */
   border-radius: 5px;
-  /* Bordes redondeados */
   cursor: pointer;
-  /* Cursor de puntero al pasar el mouse */
   transition: background-color 0.3s ease;
-  /* Transición suave del color de fondo */
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   width: 9%;
   height: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .player {
