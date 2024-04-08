@@ -1,0 +1,95 @@
+{'title': '12 de Julio - Still Anonymous', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\12 de Julio - Still Anonymous.mp3'}
+{'title': '120 - Bad Bunny', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\120 - Bad Bunny.mp3'}
+{'title': 'Abrazado a Ti - Kevin Kaarl', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Abrazado a Ti - Kevin Kaarl.mp3'}
+{'title': 'Acurrucar - Ed Maverick', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Acurrucar - Ed Maverick.mp3'}
+{'title': 'Alegrías Computables - Lolabúm', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Alegrías Computables - Lolabúm.mp3'}
+{'title': 'Antes de Morirme (feat. ROSALÍA) - C. Tangana/ROSALÍA', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Antes de Morirme - C. Tangana, ROSALÍA.mp3'}
+{'title': 'Aprovéchate - Café Tacvba', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Aprovéchate - Café Tacvba.mp3'}
+{'title': 'Arbol Sin Hojas - Dread Mar I', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Arbol Sin Hojas - Dread Mar I.mp3'}
+{'title': 'Beautiful Beat - Nada Surf', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Beautiful Beat - Nada Surf.mp3'}
+{'title': 'Beneficios - La Máquina Camaleón', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Beneficios - La Máquina Camaleón.mp3'}
+{'title': 'Black Out Days - Future Islands Remix - Phantogram/Future Islands', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Black Out Days (Future Islands Remix) - Phantogram, Future Islands.mp3'}
+{'title': 'Brújula - Siddhartha', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Brújula - Siddhartha.mp3'}
+{'title': 'Cambio de Tonalidad - Da Pawn', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Cambio de Tonalidad - Da Pawn.mp3'}
+{'title': 'Cantándote al Oído - KYR4/Luis Branco', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Cantándote al Oído - KYR4, Luis Branco.mp3'}
+{'title': "Casi q' me pierdo - Los Cafres", 'src': "C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Casi q' me pierdo - Los Cafres.mp3"}
+{'title': 'Congratulations (feat. Bilal) - Mac Miller/Bilal', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Congratulations - Mac Miller, Bilal.mp3'}
+{'title': 'COSAS QUE NO TE DIJE - SAIKO', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\COSAS QUE NO TE DIJE - SAIKO.mp3'}
+{'title': 'Cuando Me Empieces a Odiar - Los Corrientes', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Cuando Me Empieces a Odiar - Los Corrientes.mp3'}
+{'title': 'Cuentame - Equilivre', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Cuentame - Equilivre.mp3'}
+{'title': 'Desencuentro (feat. Soko) - Residente/Soko', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Desencuentro - Residente, Soko.mp3'}
+{'title': 'Dias De Sol Nublados - Dread Mar I', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Dias De Sol Nublados - Dread Mar I.mp3'}
+{'title': 'Do I Wanna Know? - Arctic Monkeys', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Do I Wanna Know - Arctic Monkeys.mp3'}
+{'title': 'Elastic Heart - Sia', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Elastic Heart - Sia.mp3'}
+{'title': 'Eres Tú - Matisse/Reik', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Eres Tú - Matisse, Reik.mp3'}
+{'title': 'Fall (Latitud 0) - La Máquina Camaleón', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Fall (Latitud 0) - La Máquina Camaleón.mp3'}
+{'title': 'Ficción - Les Petits Bâtards', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Ficción - Les Petits Bâtards.mp3'}
+{'title': 'Firestone - Kygo/Conrad Sewell', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Firestone - Kygo, Conrad Sewell.mp3'}
+{'title': 'Fix You - Coldplay', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Fix You - Coldplay.mp3'}
+{'title': 'Fotografía - Jumbo', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Fotografía - Jumbo.mp3'}
+{'title': 'Girassóis de Van Gogh - Cover - Mari Froes', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Girassóis de Van Gogh (Cover) - Mari Froes.mp3'}
+{'title': 'Give Me Love - Ed Sheeran', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Give Me Love - Ed Sheeran.mp3'}
+{'title': 'Go Go Go Go! - Nightcore Version - Felsenstein', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Go Go Go Go! - Felsenstein.mp3'}
+{'title': 'High Enough - RAC Remix - K.Flay/RAC', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\High Enough (RAC Remix) - K.Flay, RAC.mp3'}
+{'title': 'Hometown - Twenty One Pilots', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Hometown - Twenty One Pilots.mp3'}
+{'title': 'Imagination - Foster The People', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Imagination - Foster The People.mp3'}
+{'title': 'Innerbloom - RÜFÜS DU SOL', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Innerbloom - RÜFÜS DU SOL.mp3'}
+{'title': 'Instant Crush (feat. Julian Casablancas) - Daft Punk/Julian Casablancas', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Instant Crush - Daft Punk, Julian Casablancas.mp3'}
+{'title': 'Just Kiss Her - Concorde/Clément Froissart', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Just Kiss Her - Concorde, Clément Froissart.mp3'}
+{'title': 'Leaving On The 5th - Voxhaul Broadcast', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Leaving On The 5th - Voxhaul Broadcast.mp3'}
+{'title': 'Lego House - Ed Sheeran', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Lego House - Ed Sheeran.mp3'}
+{'title': 'Lento - Santy-P/Moree Neri', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Lento - Santy P, Moree Neri.mp3'}
+{'title': 'Lie To Me - Acoustic - 5 Seconds of Summer', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Lie To Me (Acoustic) - 5 Seconds of Summer.mp3'}
+{'title': 'Lluvia - Baltazar', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Lluvia - Baltazar.mp3'}
+{'title': 'Loco - Siddhartha/Caloncho', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Loco - Siddhartha, Caloncho.mp3'}
+{'title': 'Lose Control - Teddy Swims', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Lose Control - Teddy Swims.mp3'}
+{'title': 'Losing My Religion - R.E.M.', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Losing My Religion - R.E.M..mp3'}
+{'title': 'Love Language - Crooked Colours', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Love Language - Crooked Colours.mp3'}
+{'title': 'M.A.I - Milo j', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\M.A.I - Milo j.mp3'}
+{'title': 'Manda Una Señal - Maná', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Manda Una Señal - Maná.mp3'}
+{'title': 'Mercedes - José Madero', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Mercedes - José Madero.mp3'}
+{'title': 'Mind If I Stay - Kadebostany', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Mind If I Stay - Kadebostany.mp3'}
+{'title': 'New Light - John Mayer', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\New Light - John Mayer.mp3'}
+{'title': 'Nothing Breaks Like a Heart (feat. Miley Cyrus) - Mark Ronson/Miley Cyrus', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Nothing Breaks Like a Heart - Mark Ronson, Miley Cyrus.mp3'}
+{'title': 'NYLA - blackbear', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\NYLA - blackbear.mp3'}
+{'title': 'OA - Anuel AA/Quevedo/Maluma/Mambo Kingz/DJ Luian', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\OA - Anuel AA, Quevedo, Maluma, Mambo Kingz, DJ Luian.mp3'}
+{'title': 'Objects in the Mirror - Mac Miller', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Objects in the Mirror - Mac Miller.mp3'}
+{'title': 'Ojos Color Sol (feat. Silvio Rodríguez) - Calle 13/Silvio Rodríguez', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Ojos Color Sol - Calle 13, Silvio Rodríguez.mp3'}
+{'title': 'Passionfruit - Drake', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Passionfruit - Drake.mp3'}
+{'title': 'POLARIS - Remix - SAIKO/Quevedo/Feid/Mora', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\POLARIS - SAIKO, Quevedo, Feid, Mora.mp3'}
+{'title': 'Que Fluya - Residente/Arcángel', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Que Fluya - Residente, Arcángel.mp3'}
+{'title': 'Respira - Natalia Doco', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Respira - Natalia Doco.mp3'}
+{'title': 'Runaway - Los Pericos/The Original Wailers', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Runaway - Los Pericos, The Original Wailers.mp3'}
+{'title': 'Safe And Sound - Capital Cities', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Safe And Sound - Capital Cities.mp3'}
+{'title': 'Sal - La Máquina Camaleón', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Sal - La Máquina Camaleón.mp3'}
+{'title': 'San Lucas - Kevin Kaarl', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\San Lucas - Kevin Kaarl.mp3'}
+{'title': 'Seguro Te Pierdo - Sergi/KID FLEX', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Seguro Te Pierdo - Sergi, KID FLEX.mp3'}
+{'title': 'Ser Parte - Siddhartha', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Ser Parte - Siddhartha.mp3'}
+{'title': 'Siempre me quedará - Bebe', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Siempre me quedará - Bebe.mp3'}
+{'title': 'siempreestoypati - Ed Maverick', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\siempreestoypati - Ed Maverick.mp3'}
+{'title': 'Skinny Love - Birdy', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Skinny Love - Birdy.mp3'}
+{'title': 'Snap Out Of It - Arctic Monkeys', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Snap Out Of It - Arctic Monkeys.mp3'}
+{'title': 'Sofia - Clairo', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Sofia - Clairo.mp3'}
+{'title': 'Something About Us - Daft Punk', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Something About Us - Daft Punk.mp3'}
+{'title': 'Something Just Like This - The Chainsmokers/Coldplay', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Something Just Like This - The Chainsmokers, Coldplay.mp3'}
+{'title': 'Somos Instantes - Caloncho', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Somos Instantes - Caloncho.mp3'}
+{'title': 'Stay High - Concorde', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Stay High - Concorde.mp3'}
+{'title': 'Susurros - Neutro Shorty', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Susurros - Neutro Shorty.mp3'}
+{'title': 'Sweater Weather - The Neighbourhood', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Sweater Weather - The Neighbourhood.mp3'}
+{'title': 'Take Ü There (feat. Kiesza) - Jack Ü/Skrillex/Diplo/Kiesza', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Take Ü There - Jack Ü, Skrillex, Diplo, Kiesza.mp3'}
+{'title': "Tell Me Why I'm Waiting - Timmies/Shiloh Dynasty", 'src': "C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Tell Me Why I'm Waiting - Timmies, Shiloh Dynasty.mp3"}
+{'title': 'This Modern Love - Bloc Party', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\This Modern Love - Bloc Party.mp3'}
+{'title': 'TIMEZONE - Måneskin', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\TIMEZONE - Måneskin.mp3'}
+{'title': 'TQM - Little Jesus/Elsa y Elmar/Ximena Sariñana', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\TQM - Little Jesus, Elsa y Elmar, Ximena Sariñana.mp3'}
+{'title': 'TUS LÁGRIMAS - Mora/Sech', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\TUS LÁGRIMAS - Mora, Sech.mp3'}
+{'title': 'Tus Ojos - Reis Belico/Joy Martinez', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Tus Ojos - Reis Belico, Joy Martinez.mp3'}
+{'title': 'Una Canción para No Decir Te Quiero - La Maravillosa Orquesta del Alcohol', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Una Canción para No Decir Te Quiero - La Maravillosa Orquesta del Alcohol.mp3'}
+{'title': 'Viernes - Molok0', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Viernes - Molok0.mp3'}
+{'title': 'Volando - Remix - Mora/Bad Bunny/Sech', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Volando - Mora, Bad Bunny, Sech.mp3'}
+{'title': 'Waiting For Love - Avicii', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Waiting For Love - Avicii.mp3'}
+{'title': "We Don't Believe What's on TV - Twenty One Pilots", 'src': "C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\We Don't Believe What's on TV - Twenty One Pilots.mp3"}
+{'title': 'Without You - Oh Wonder', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Without You - Oh Wonder.mp3'}
+{'title': 'You & Me - Flume Remix - Disclosure/Eliza Doolittle/Flume', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\You & Me (Flume Remix) - Disclosure, Eliza Doolittle, Flume.mp3'}
+{'title': 'Zamba Surreal - Guardarraya', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Zamba Surreal - Guardarraya.mp3'}
+{'title': 'Æ - Ep. 10: Æ - La Máquina Camaleón', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Æ - La Máquina Camaleón.mp3'}
+{'title': 'Únicos - Siddhartha', 'src': 'C:\\Users\\balex\\Downloads\\Sthefy8-4\\audio\\Únicos - Siddhartha.mp3'}
